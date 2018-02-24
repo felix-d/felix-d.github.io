@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://felix-d.github.io/posts/dockerizing-phoenix/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/tags/docker/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/tags/elixir/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/tags/phoenix/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/posts/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/tags/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
