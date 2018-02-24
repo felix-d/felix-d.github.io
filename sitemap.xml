@@ -25,12 +25,6 @@
   </url>
   
   <url>
-    <loc>http://felix-d.github.io/</loc>
-    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://felix-d.github.io/tags/phoenix/</loc>
     <lastmod>2018-02-18T12:56:42-05:00</lastmod>
     <priority>0</priority>
@@ -44,6 +38,12 @@
   
   <url>
     <loc>http://felix-d.github.io/tags/</loc>
+    <lastmod>2018-02-18T12:56:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felix-d.github.io/</loc>
     <lastmod>2018-02-18T12:56:42-05:00</lastmod>
     <priority>0</priority>
   </url>
